@@ -29,7 +29,7 @@ class device_handler(debounce_handler):
 
     def act(self, client_address, state, name):
         print "State", state, "on ", name, "from client @", client_address
-	os.system('bash scripts/test.sh')
+	    os.system('bash scripts/test.sh')
         return True
 
 if __name__ == "__main__":
