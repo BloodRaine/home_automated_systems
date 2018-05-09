@@ -1,0 +1,27 @@
+Robinson Merillat
+MEGN 200
+Individual Reflection
+
+Q: What areas of design the design process did you apply and worked well in this project?
+
+A: As a computer scientist, I am quite sed to agaile development, which encouraged having 
+a working prototype at all stages of design. This way, if you run out of time or hit a deadline, 
+you have something you can actually show and describe how you plan to improve it in the future.
+
+Q: What challenges did you have as we asked you to step through the design process?
+
+    Aside from other courses and graduation requirements outside of class, the challenges
+    I faced were stricktly related to the hardware and circuitry. I've been coding for a few 
+    years now and am pretty comfortable with it, however, this is my first semester working with 
+    sensors and microconrollers so that was a bit daunting.
+
+Q: What skill did you advance and are you most proud of as you completed this project?
+
+    As circuitry was my most challenging part, I think it is also where I imporved the most. 
+    I learned a lot about how to power things from a lower voltage to a higher one and how 
+    several different sensors worked.
+
+What skill(s) do you wish you had more time to develop?
+    If I had more time, I would always like to work on my coding skills, however, 
+    strickly speaking for this project, I think I'd like to work on my planning because a lot of things popped up 
+    and my team often found ourselves behind the clock when it came to getting things done for deliverables.
